@@ -1,4 +1,4 @@
 
-## Oyundan Bir Görsel
+## Image
 
 ![Image](Image1.png)
